@@ -3,5 +3,5 @@ exports.sum = (a, b) => {
 }
 
 exports.mul = (a, b) => {
-    console.log(a * b)
+    console.log(a / b)
 }
